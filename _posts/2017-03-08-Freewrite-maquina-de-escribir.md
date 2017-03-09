@@ -13,7 +13,7 @@ Su peculiaridad va más allá del aspecto de máquina de escribir. [Freewrite](h
 
 Freewrite nació con otro nombre: [Hemingwriter](https://www.kickstarter.com/projects/adamleeb/hemingwrite-a-distraction-free-digital-typewriter "Hemingwriter"). En un homenaje al nobel de literatura, la máquina de escribir llegó a la plataforma de financiación colectiva Kickstarter. La Hemingwriter buscaba alcanzar una financiación de 250.000 dólares pero consiguió enamorar a 1.096 mecenas y reunir hasta 342.471 dólares.
 
-![Imagen]({{ site.baseurl }}/content/images/freewrite_2_1660x845.png)
+![Imagen]({{ site.baseurl }}/content/images/freewrite_2_1660x845.jpg)
 
 Un capricho apto sólo para los amantes de la escritura, de lo clásico. Sólo para los que quieren rememorar la experiencia del placer de escribir en soledad. Un precio elevado para unas funciones que bien pueden hacerse con un ordenador portátil básico o una tableta pero a las que se suma el romanticismo, la unión de lo tradicional y lo moderno, la moda por lo retro, la pasión por el elitismo y el placer de renunciar a lo simple y lo común. Buscar un paso más, huir de lo simple, convertirse en Hemingway.
 
