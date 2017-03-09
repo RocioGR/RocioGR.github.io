@@ -1,0 +1,21 @@
+# Site settings
+title: "Rocío García Rubio"
+logo: logo.png # image from https://www.flickr.com/photos/lwr/5496279831/in/set-72157594159055823
+email: your-email@domain.com
+description: > # this means to ignore newlines until "url:"
+  Malagueña en Madrid. De 1992. Crecí con Hyrule en la tele y Pueblo Paleta en la Game Boy. Me paseo por Kickstarter varias veces al día. El resto lo paso en YouTube, buscando cacharritos originales en Internet, encontrando galerías de Instagram o viendo volar por los aires la Estrella de la Muerte.
+url: "https://RocioGR.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+twitter_username: roo_gr
+github_username:  rociogr
+
+permalink: pretty
+paginate: 5
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+gems:
+  - jekyll-sitemap
+  - jekyll-paginate
